@@ -263,7 +263,7 @@ Durante el proyecto se generaron diferentes visualizaciones para apoyar la inter
 
 Permite identificar los productos con mayor cantidad de unidades comercializadas.
 
-![Top 10 productos más vendidos](productos_mas_vendidos.png)
+<img src="productos_mas_vendidos.png" width="850">
 
 ---
 
@@ -271,7 +271,7 @@ Permite identificar los productos con mayor cantidad de unidades comercializadas
 
 Permite identificar los productos que generan una mayor contribución económica.
 
-![Top 10 productos con mayores ingresos](productos_mayores_ingresos.png)
+<img src="productos_mayores_ingresos.png" width="850">
 
 ---
 
@@ -279,7 +279,7 @@ Permite identificar los productos que generan una mayor contribución económica
 
 Permite observar la evolución de las ventas a lo largo del período analizado e identificar meses de crecimiento y reducción.
 
-![Evolución mensual de las ventas](ventas_mensuales.png)
+<img src="ventas_mensuales.png" width="850">
 
 ---
 
@@ -287,7 +287,7 @@ Permite observar la evolución de las ventas a lo largo del período analizado e
 
 Permite comparar las ventas acumuladas según el mes del año e identificar períodos de mayor actividad comercial.
 
-![Ventas acumuladas por mes](estacionalidad_ventas.png)
+<img src="estacionalidad_ventas.png" width="850">
 
 ---
 
@@ -295,7 +295,7 @@ Permite comparar las ventas acumuladas según el mes del año e identificar per�
 
 Permite evaluar visualmente el desempeño del modelo Random Forest utilizado para clasificar clientes Normales y Premium.
 
-![Matriz de confusión](matriz_confusion.png)
+<img src="matriz_confusion.png" width="700">
 
 ---
 
@@ -303,7 +303,7 @@ Permite evaluar visualmente el desempeño del modelo Random Forest utilizado par
 
 El método del codo permitió evaluar diferentes valores de `k` y seleccionar **3 clusters** como una solución adecuada para la segmentación.
 
-![Método del codo para K-Means](metodo_codo_kmeans.png)
+<img src="metodo_codo_kmeans.png" width="800">
 
 ---
 
@@ -311,7 +311,7 @@ El método del codo permitió evaluar diferentes valores de `k` y seleccionar **
 
 Permite visualizar la distribución de los clientes según su frecuencia de compra y gasto total.
 
-![Segmentación de clientes con K-Means](segmentacion_kmeans.png)
+<img src="segmentacion_kmeans.png" width="850">
 
 ---
 
@@ -319,7 +319,7 @@ Permite visualizar la distribución de los clientes según su frecuencia de comp
 
 Debido a la existencia de clientes con niveles de frecuencia y gasto considerablemente superiores al promedio, se utilizó una escala logarítmica para mejorar la visualización de los grupos.
 
-![Segmentación K-Means en escala logarítmica](segmentacion_kmeans_log.png)
+<img src="segmentacion_kmeans_log.png" width="850">
 
 ---
 
@@ -327,10 +327,9 @@ Debido a la existencia de clientes con niveles de frecuencia y gasto considerabl
 
 Permite comparar las ventas reales del conjunto de prueba con las estimaciones generadas por el modelo Random Forest Regressor.
 
-![Ventas reales vs. ventas predichas](ventas_reales_predichas.png)
+<img src="ventas_reales_predichas.png" width="850">
 
 ---
-
 
 ## Principales resultados
 
