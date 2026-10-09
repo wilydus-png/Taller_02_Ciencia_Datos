@@ -351,6 +351,18 @@ Los principales resultados obtenidos durante el desarrollo del proyecto fueron:
 
 ---
 
+## Dataset
+
+El proyecto utiliza el conjunto de datos **Online Retail II** del UCI Machine Learning Repository.
+
+Debido al tamaño del archivo original, el dataset no se incluye directamente en este repositorio.
+
+Para ejecutar el notebook, se debe descargar el archivo y colocarlo en la misma carpeta del proyecto con el nombre:
+
+`online_retail_II.xlsx`
+
+---
+
 ## Estructura del repositorio
 
 La organización del proyecto es la siguiente:
@@ -360,9 +372,6 @@ Taller_02_Ciencia_Datos/
 │
 ├── Taller_02_Ciencia_Datos.ipynb
 │   └── Notebook principal con el proceso completo de análisis y modelado.
-│
-├── online_retail_II.xlsx
-│   └── Dataset original utilizado para el análisis.
 │
 ├── productos_mas_vendidos.png
 │   └── Gráfico de productos con mayor cantidad vendida.
