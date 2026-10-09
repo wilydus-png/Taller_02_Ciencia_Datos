@@ -255,7 +255,6 @@ El modelo logró capturar parcialmente la tendencia general de las ventas.
 También se realizó una evaluación complementaria excluyendo diciembre de 2011, debido a que este mes contiene información únicamente hasta el día 9.
 
 ---
-
 # Visualizaciones generadas
 
 Durante el proyecto se generaron diferentes visualizaciones para apoyar la interpretación de los resultados.
@@ -312,15 +311,13 @@ El método del codo permitió evaluar diferentes valores de `k` y seleccionar **
 
 Permite visualizar la distribución de los clientes según su frecuencia de compra y gasto total.
 
-![Segmentación K-Means](segmentacion_kmeans.png)
+![Segmentación de clientes con K-Means](segmentacion_kmeans.png)
 
 ---
 
 ## 8. Segmentación K-Means en escala logarítmica
 
 Debido a la existencia de clientes con niveles de frecuencia y gasto considerablemente superiores al promedio, se utilizó una escala logarítmica para mejorar la visualización de los grupos.
-
-Esta transformación se utiliza únicamente con fines gráficos y no modifica el modelo entrenado.
 
 ![Segmentación K-Means en escala logarítmica](segmentacion_kmeans_log.png)
 
@@ -333,6 +330,7 @@ Permite comparar las ventas reales del conjunto de prueba con las estimaciones g
 ![Ventas reales vs. ventas predichas](ventas_reales_predichas.png)
 
 ---
+
 
 ## Principales resultados
 
